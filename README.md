@@ -95,3 +95,7 @@ This project is an end-to-end fullstack application designed to analyze and visu
 ## 📝 Authors
 
    Gaddiel Irakoze
+
+## License
+
+This project is for academic purposes and not intended for commercial use.
